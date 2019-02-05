@@ -21,7 +21,7 @@ model.compile("adam", affinity_loss(0.75), [acc]) # lambda
 
 
 # Reimplementation
-MNIST, lambda=0.65, sigma=10. Evaluate on macro f1-score.
+MNIST, lambda=0.75, sigma=10. Evaluate on macro f1-score.
 
 | # samples per class on test data | Softmax | Affinity m=1 | Affinity m=5 |
 |:--------------------------------:|:-------:|:------------:|:------------:|

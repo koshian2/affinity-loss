@@ -35,4 +35,4 @@ MNIST, lambda=0.65, sigma=10. Evaluate on macro f1-score.
 ![](https://github.com/koshian2/affinity-loss/blob/master/images/affinity_09.png)
 
 # More details(Japanese)
-![https://qiita.com/koshian2/items/20af1548125c5c32dda9](https://qiita.com/koshian2/items/20af1548125c5c32dda9)
+[https://qiita.com/koshian2/items/20af1548125c5c32dda9](https://qiita.com/koshian2/items/20af1548125c5c32dda9)

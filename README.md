@@ -6,10 +6,10 @@ Munawar Hayat, Salman Khan, Waqas Zamir, Jianbing Shen, Ling Shao. Max-margin Cl
 ![](https://github.com/koshian2/affinity-loss/blob/master/images/affinity_loss.png)
 
 # How to use
-Use "Clusterling Affinity" Layer:
+Use "Clustering Affinity" Layer:
 
 ```python
-from affnity_loss import *
+from affinity_loss import *
 x = ClusteringAffinity(10, 1, 10.0)(some_input) # n_classes, n_centroids, sigma
 ```
 
